@@ -54,21 +54,22 @@ The dashboard includes:
 
 ## Data Source
 
-The data used in this project is sourced from Spotify. It includes various attributes such as track name, artist name, stream count, release date, danceability percentage, speechiness percentage, liveness percentage, and the number of playlists featuring each song.
+The data used in this project is sourced from Kaggle. It includes various attributes such as track name, artist name, stream count, release date, danceability percentage, speechiness percentage, liveness percentage,song cover image  link and many more. you can download the xlsx file (`spotify data set 2023.xlsx
+`) in this repository.
 
 ## Custom Visuals
 
 - **Dynamic Music Cover**: Implemented using an HTML visual to display album covers based on the provided data source links.
 - **Energy Percentage Chart**: A custom chart built using Deneb Unichart for advanced visual representation.
+- ** Custome Heatmap with Bar**: To showcase the calender just like github contributions chart
 
 ## Contact
 
 For any questions or suggestions, feel free to reach out:
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Name**: Jyotirmaya Maharana
+- **Email**: [jyotiramyamaharana16@gmail.com](mailto:jyotiramyamaharana@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jyotirmaya-maharana-a32333299/)
 
 ## License
 
