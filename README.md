@@ -65,7 +65,7 @@ The data used in this project is sourced from Kaggle. It includes various attrib
 
 - **Dynamic Music Cover**: Implemented using an HTML visual to display album covers based on the provided data source links.
 - **Energy Percentage Chart**: A custom chart built using Deneb Unichart for advanced visual representation.
-- ** Custome Heatmap with Bar**: To showcase the calender just like github contributions chart
+- **Custome Heatmap with Bar**: To showcase the calender just like github contributions chart
 
 ## Contact
 
