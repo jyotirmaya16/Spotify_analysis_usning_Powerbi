@@ -1,4 +1,8 @@
-# Spotify Songs Dashboard
+# Spotify Songs Analysis
+### Preview
+#### Link to site: [click her👆🏻](https://app.powerbi.com/groups/me/reports/6b224536-6865-4f62-bc14-c8cc53e396fd/50231ac4c2d40c000b00?experience=power-bi)  
+###### To view this content, you need a Power BI account.
+![spotifyanalysis](https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi/assets/146333462/8257a24f-d338-4e73-9e22-59750da3c083)
 
 ## Project Overview
 
