@@ -30,16 +30,9 @@ The dashboard includes:
    - **Slicers for Filtering**: A dedicated section with slicers to filter the data dynamically.
    - **Return Button**: A button to close the filter pop-up and return to the main dashboard view.
 
-## Screenshots
+## Detailed overview
+![github another](https://github.com/jyotirmaya16/Spotify_analysis_usning_Powerbi/assets/146333462/bd264a1d-3989-4a9b-8eea-05abe79aeb7b)
 
-### Home (1st Dashboard)
-![Home Dashboard](images/home_dashboard.png)
-
-### 2nd Dashboard
-![2nd Dashboard](images/second_dashboard.png)
-
-### Filter Pop-up
-![Filter Pop-up](images/filter_popup.png)
 
 ## Installation and Usage
 
