@@ -69,7 +69,7 @@ For any questions or suggestions, feel free to reach out:
 
 - **Name**: Jyotirmaya Maharana
 - **Email**: [jyotiramyamaharana16@gmail.com](mailto:jyotiramyamaharana@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jyotirmaya-maharana-a32333299/)
+- **LinkedIn**: [jyotirmaya_maharana](https://www.linkedin.com/in/jyotirmaya-maharana-a32333299/)
 
 ## License
 
