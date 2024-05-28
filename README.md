@@ -39,10 +39,10 @@ The dashboard includes:
 
 ## Installation and Usage
 
-1. **Download the .pbix File**: Clone the repository and download the Power BI file (`spotify_dashboard.pbix`).
+1. **Download the .pbix File**: Clone the repository and download the Power BI file (`Spotify Analysis.pbix`).
 
    ```bash
-   git clone https://github.com/yourusername/spotify-dashboard.git
+   git clone https://github.com/jyotirmaya16/Spotify Analysis.pbix
    ```
 
 2. **Open in Power BI Desktop**: Open the downloaded `.pbix` file in Power BI Desktop.
